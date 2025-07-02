@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sarvpreet Kaur</h1>
 
 <p align="center">
-🌱 Python Learner | 💻 Aspiring Developer | 🤖 ML Enthusiast | 🌐 Exploring Web Dev
+ 🤖 ML Enthusiast | 🌱  Python Learner | 💻 Aspiring Developer | 🌐 Exploring Web Dev
 </p>
 
 ---
