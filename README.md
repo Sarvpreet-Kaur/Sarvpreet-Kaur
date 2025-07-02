@@ -28,7 +28,7 @@
 
 ### 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SarvpreetKaur?theme=dark&font=Baloo)](https://leetcode.com/u/Sarvpreet_Kaur/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sarvpreet_Kaur-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Sarvpreet_Kaur/)
 
 ---
 
