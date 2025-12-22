@@ -29,7 +29,7 @@
 ### 📊 LeetCode Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sarvpreet_Kaur-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Sarvpreet_Kaur/)
-- ✅ Total Problems Solved: 450+
+- ✅ Total Problems Solved: 600+
 - 🟢 Easy: 100+
 - 🟡 Medium: 200+
 - 🔴 Hard: 50+
