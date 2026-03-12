@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sarvpreet Kaur</h1>
 
 <p align="center">
- 🤖 Backend & ML Enthusiast | 🌱  Python Developer |  🌐 Exploring Web Dev
+ 🤖 Backend & ML Enthusiast | MERN |  Python Developer |  🌐 Exploring Web Dev
 </p>
 
 ---
@@ -21,9 +21,9 @@
 
 - 🐍 Python, OOP, File Handling, Modules  
 - 📊 NumPy, Pandas, Tkinter, Matplotlib, Scikit-Learn(for ML)  
-- 🌐 HTML, CSS, JavaScript, React, SQL 
+- 🌐 HTML, CSS, JavaScript, React, SQL, NoSQL, MongoDB, Node.js, Express.js 
 - 💾 Git & GitHub, VS Code
-
+- 🤖 Agentic AI, LLMs
 ---
 
 ### 📊 LeetCode Stats
